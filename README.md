@@ -6,7 +6,7 @@ The source code of the [workery.com](https://workery.com) website written using 
 To begin, clone this repository
 
 ```
-git clone https://github.com/over55/workery-hugo.git
+git clone https://github.com/over55/workery-docs-hugo.git
 ```
 
 Once cloned, you'll want to install any dependencies you have. Here is for MacOS:
