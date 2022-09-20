@@ -1,0 +1,3 @@
+[submodule "src/workery-docs/themes/hugo-whisper-theme"]
+	path = src/workery-docs/themes/hugo-whisper-theme
+	url = git@github.com:zerostaticthemes/hugo-whisper-theme.git
