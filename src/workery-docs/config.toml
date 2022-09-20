@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "Workery Docs"
 
 theme = "hugo-whisper-theme"
 
@@ -39,7 +39,7 @@ summaryLength = 30
 
   [params.homepage_meta_tags]
     meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_og_title = "Workery Docs"
     meta_og_type = "website"
     meta_og_url = "https://hugo-whisper.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
